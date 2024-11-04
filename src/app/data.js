@@ -63,7 +63,7 @@ export const projectsData = [
     id: 7,
     name: "Book store application",
     description: "Your Next Adventure Awaits: Discover, Read, and Share Your Favorite Books!",
-    date: "2022-04-18",
+    date: "2024-10-22",
     demoLink: "https://bookstore-8jrk.onrender.com/",
   }
 ];
